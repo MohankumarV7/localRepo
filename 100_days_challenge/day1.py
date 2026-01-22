@@ -1,0 +1,1 @@
+print("learning python... accepting 100 days challenge")
